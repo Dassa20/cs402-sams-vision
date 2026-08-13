@@ -1,0 +1,1 @@
+"""SAMS Vision Test Suite."""

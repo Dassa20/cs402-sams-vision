@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<students course="CGV">
+    <student>
+        <id>10000409</id>
+        <title>Ms</title>
+        <name>M S Dilshanika Perera</name>
+        <course>BSc (Hons) SE</course>
+        <signature_path>data/signatures/10000409.png</signature_path>
+    </student>
+    <student>
+        <id>10009301</id>
+        <title>Mr</title>
+        <name>C W M A Shehan Abeyrathne</name>
+        <course>BSc (Hons) SE</course>
+        <signature_path>data/signatures/10009301.png</signature_path>
+    </student>
+    <student>
+        <id>10009302</id>
+        <title>Mr</title>
+        <name>B A K M Chithrananda</name>
+        <course>BSc (Hons) SE</course>
+        <signature_path>data/signatures/10009302.png</signature_path>
+    </student>
+    <student>
+        <id>10009303</id>
+        <title>Ms</title>
+        <name>W Shashini Minosha De Silva</name>
+        <course>BSc (Hons) SE</course>
+        <signature_path>data/signatures/10009303.png</signature_path>
+    </student>
+    <student>
+        <id>10009304</id>
+        <title>Mr</title>
+        <name>K L Udara Maduranga Liyanage</name>
+        <course>BSc (Hons) SE</course>
+        <signature_path>data/signatures/10009304.png</signature_path>
+    </student>
+    <student>
+        <id>10009306</id>
+        <title>Mr</title>
+        <name>Hansa Anuradha Wickramanayake</name>
+        <course>BSc (Hons) SE</course>
+        <signature_path>data/signatures/10009306.png</signature_path>
+    </student>
+</students>
